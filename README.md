@@ -49,3 +49,6 @@ disease-case-analytics
  - The script automatically checks whether the selected variables can be compared.
 
  - If no valid data remains after cleaning, the script exits.
+
+## Next steps
+ - Use more advanced linear regression models (OLS, non-linear models) to improve p-values and r-values
