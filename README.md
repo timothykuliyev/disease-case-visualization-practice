@@ -22,7 +22,7 @@ To run this project, install the necessary dependencies:
 
 ## Usage
 
-Run the main.py script:
+Change the predictor variable and the dependent variable strings to one of those in the allowable_values list. Run the main.py script.
 
 Expected Output
 
