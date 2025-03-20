@@ -16,6 +16,9 @@ This project analyzes and visualizes flu case data using Python. It demonstrates
 ## Installation
 
 To run this project, install the necessary dependencies:
+ - matplotlib
+ - pandas
+ - scipy
 
 ## Usage
 
